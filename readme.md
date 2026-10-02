@@ -1,7 +1,7 @@
 <img src="./header.svg" width="100%" alt="footer" />
 <div align="center">
 
-# ♡ `selena DV` ♡
+# ♡ `ZenoX DV` ♡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=%E2%9C%A6+FULL+STACK+DEVELOPER+%E2%9C%A6;%E2%99%A1+CODE.+CREATE.+SHINE.+%E2%99%A1;%F0%9F%92%BB+TURNING+IDEAS+INTO+CODE;%E2%9C%A8+WELCOME+TO+MY+DIGITAL+WORLD+%E2%9C%A8;%F0%9F%8C%B8+GIRL+WHO+CODES+%F0%9F%8C%B8" />
 <br><br>
