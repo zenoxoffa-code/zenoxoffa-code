@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%" alt="footer" />
+
 <div align="center">
 
 # ♡ `ZenoX DV` ♡
